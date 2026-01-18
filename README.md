@@ -1,4 +1,4 @@
-# 2025_python_basics
+# python_basics
 This repository contains Python practice codes from my uni programming class.
 
 ## 📂 Structure
